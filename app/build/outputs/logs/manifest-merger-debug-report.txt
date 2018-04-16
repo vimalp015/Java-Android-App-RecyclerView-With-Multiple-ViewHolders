@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\575cb2526f7b8acaa9bb6ccea69b3b80\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\a2bcbac59611648fffce43604d85ce36\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:17:1-31:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\149daa70d05976ba6bb4a7eb5ef1b9e5\AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\575cb2526f7b8acaa9bb6ccea69b3b80\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\575cb2526f7b8acaa9bb6ccea69b3b80\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:8:9-44
+activity#com.au.vimalprakash.thenewsfeedapp.modules.mainactivity.MainActivity
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:16:13-49
+	android:theme
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:15:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\575cb2526f7b8acaa9bb6ccea69b3b80\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\575cb2526f7b8acaa9bb6ccea69b3b80\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\a2bcbac59611648fffce43604d85ce36\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\a2bcbac59611648fffce43604d85ce36\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:21:5-23:58
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\149daa70d05976ba6bb4a7eb5ef1b9e5\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\149daa70d05976ba6bb4a7eb5ef1b9e5\AndroidManifest.xml:19:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\projects\TheNewsFeedApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\798393beac3c3d690ed969095e26efc5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ff7db50aaf5ca46123c73669a46becf3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ad389af062fd16c5c4dd3f508ba989bf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8743cdac1d6704fc169ad2d129422898\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9bde3e5d5be1a4d145e1d2c88561122e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\00cc2ecf4c2bddc8a9c02b147d087884\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\98865d9a0461ac5483fa418b0f598f20\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a8d24a1189add30e8eed024af2e6a656\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15f6d8da48557c6ee957417b96d65764\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d7715137b2ed638ab040a66d4de296c4\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\98f7b7cf7bd962f466290960748a7085\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vimal\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\608f2ad0816c073dfb53aeabf233a3ef\AndroidManifest.xml:26:13-58

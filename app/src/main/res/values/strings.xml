@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The News Feed App</string>
+    <string name="loading_title">Loading</string>
+    <string name="loading_message">We are loading your latest news...</string>
+    <string name="unable_to_load_error">Unable to load, please try again</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="close">CLOSE</string>
+</resources>
