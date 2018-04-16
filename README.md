@@ -20,14 +20,13 @@ The included API endpoint returns, amongst other data, an array of news stories 
 API Endpoint:
 
 Other Features:
-*The architecture is MVP
-*Android Studio 3.0.1
-*RxJava library for reactive 
-*Butterknife for annotation processing
-*Dagger2 for dependency injection
-*Picasso for image processing
-*Retrofit for networking
-*Junit and Mockito for unit tests
-*I have used Java for coding 
-*Kotlin for writing test cases
-
+* The architecture is MVP
+* Android Studio 3.0.1
+* RxJava library for reactive 
+* Butterknife for annotation processing
+* Dagger2 for dependency injection
+* Picasso for image processing
+* Retrofit for networking
+* Junit and Mockito for unit tests
+* I have used Java for coding 
+* Kotlin for writing test cases
